@@ -1,6 +1,6 @@
 # Kernelized-Ridge-Regression
 
-***Note: The write up is provided in the RidgeRegressionUsingKernelTrick.ipynb which contains step by step explanation. The presentation link is provided by the link below:***
+***Note: The write up is provided in the RidgeRegressionUsingKernelTrick.ipynb which contains step by step explanation. The presentation link is provided in the link below:***
 
 https://docs.google.com/presentation/d/1BguPDGKzwhu6cIhjEjpkN6vOYYud8BmgsPY_bZPaCPA/edit?usp=sharing
 
