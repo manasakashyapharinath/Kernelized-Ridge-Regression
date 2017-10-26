@@ -1,3 +1,3 @@
 # Kernelized-Ridge-Regression
 
-We have uploaded 4 files:
+We have uploaded 4 files: RidgeRegressionUsingKernelTrick.ipynb, 
